@@ -1,0 +1,6 @@
+﻿<%@ Register assembly="CKEditor.Net" namespace="CKEditor.NET" tagPrefix="CKEditor" %>
+
+<CKEditor:CKEditorControl runat="server" ID="txtNoiDungHD" Height="100" Width="98%" BasePath="~/Content/ckeditor"></CKEditor:CKEditorControl>
+   
+
+  <script src="/ckeditor/ckeditor.js" type="text/javascript"></script>                
